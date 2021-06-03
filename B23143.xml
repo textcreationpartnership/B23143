@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The serious peoples reasoning and speech with the worlds teachers and professors. By G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23143</idno><idno type="EEBO-CITATION">99889566</idno>
+  <idno type="VID">193507</idno>
+  <idno type="EEBO-PROQUEST">2240909576</idno>
+  
+            <idno type="OCLC"> 10731846</idno>
+            <idno type="STC">Wing F1900</idno>
+            <idno type="STC">Interim Tract Supplement Guide 855.f.3[15]</idno>
+            <idno type="STC">ESTC R28652</idno>
+            <idno type="PROQUEST">ocm99889566</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889566e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193507)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B9:1[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The serious peoples reasoning and speech with the worlds teachers and professors. By G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Educators --  Conduct of life --  Early works to 1900.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193507:1"/>
+            <p>THE Serious Peoples REASONING AND SPEECH WITH THE <hi>WORLDS TEACHERS</hi> AND PROFESSORS.</p>
+            <p>By <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Aldersgate,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:193507:2"/>
+            <head>The Serious Peoples Reasoning and speech with the worlds Teachers &amp; Professors.</head>
+            <p>THe Worlds Teachers and Professors say, <hi>The</hi> Quakers <hi>are fools, because they will not wear Ribbands, and Idiots, and novices because they will not wear feathers in their caps, and great Scarfes a top of their hats, and to hang over their hat brims and shoulders and their backs, therefore are they like fools, Idiots and no body.</hi>
+            </p>
+            <p>I, But sayes the serious people to these professors and Teachers of the World you are more like novices, Idiots, and fools, with your Scarfes a top of the crown of your hats, hanging over their brims upon your backs, and your hearers and people with feathers in their Caps, which are no where like Christians, but are more like the Idiots, and the fools and novices, who have lost your sincerity, whose minds are taken up with these foolish things, which destroys your seriousness, and so you are not like the Saints, you professors and Teachers and people, but are like the heathen in your gorgious Apparel.</p>
+            <p>The Priests and professors and the worlds table talk is, <hi>The</hi> Quakers <hi>will not wear gold Lace, will not wear Ribbands in their hats, nor at their knees, nor about their wastes, nor a bunch of Ribbands before them; nor Ribbands at their Gloves, nor broad Tassels upon their shoes, nor Ribbands at their hands, nor a bunch of Ribbands at their backs as big as ones fist, as our women and mem<g ref="char:EOLhyphen"/>bers of our Churches do, and a bunch of Ribbands at their bosomes, and down their bosomes; and three or four Gold Laces upon their Coats, and Petticoats; and the</hi> Quakers <hi>like a company of fools and novices cry against us, and say we are all daubed about and drest with pride: how must the poor live if we m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st not wear their Lace? and gold and silver, and Ribbands on our backs?</hi>
+            </p>
+            <p>I, But saith the serious people, art not thou burthened with all this garb upon thy back, and this vanity? and doest not thou spend much time in decking thy self? and doest not see thy self ill-favored with all these Ribbands tashling about thy hands, &amp; flaping upon thy hat, and great bunches as big as a hand flaping at the backs of wo<g ref="char:EOLhyphen"/>men like a Besome, and thy great things a top of thy shoes staring; and if you say how should the poor live if you do not wear that; Give them all that money which you bestow upon all that gorgious attire &amp; needles things, to nourish them, that they may live without making vanities, and needless things, and costly Attire for you. And through that you will live, and they will live both; giving the poor all that which you lay out in needless toys and Ribbands; and then you shall not be like fools and Fidlers, and the dancing leight women with all their bunches of Ribbands and toys about them, saith the serious people.</p>
+            <pb n="3" facs="tcp:193507:2"/>
+            <p>But saith the worlds Teachers and professors; <hi>These</hi> Quakers <hi>are good for nothing but to crosse people, and crosse us.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Your minds that live in vanities and Ribbands, and delight in such fooleries you are so peevish, and so fretful, and so pettish, if the bunch of Ribband<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be not right as you would have them upon your backs, &amp; hang right upon your breasts, and your Laces set right upon your coats and Gloves, and your dressing and Ribbands right upon your heads, that through your peevishness, and brickleness of your minds that live in these earthly things, neither your men, nor your maids can tell how to please you, nor your Taylors to shape your garments right for you; and so that which the <hi>Quakers</hi> crosse, is but your earthly minds that live in these earthly toyes, and so they are more your friends then you are a<g ref="char:EOLhyphen"/>ware of, saith the serious people; and we know you, for abundance of of you are gotten up lately with your ribbands on your backs and knees, and your Feathers in your hats, and your bunches of Ribbands about your wastes, and dabling of your Gloves, and putting on gold and silver, which is contrary to the Apostles doctrine; for we have known the time when many of you did not wear such things which you have lately got up, and put on, more like fools then serious people, who are out of the Apostles doctrine; who saith it is not the wearing of gold nor costly apparel; and so through your vanity, you have lost sincerity, and gone from the Apostles doctrine, and so are turned into the lusts of the eye, pride of life, and lusts of the flesh.</p>
+            <p>
+               <hi>Away with you</hi> say the professors and Teachers of the world, <hi>you are a company of mad men, you are not fit to live upon the earth.</hi>
+            </p>
+            <p>I, But say the serious people, you are the mad men that destroys the Creation and the creatures of God upon your lusts, and the lusts of your eye, the lusts of the flesh, and the pride of life, which is not of the Father, but of the world, by which you destroy the Fathers works, and the pri<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the creatures which were given forth to be used by the wisdom, by which they were created to the glory of the Creator.</p>
+            <p>Priest▪ and professors and Teachers, say they; <hi>You are not fit to be talked to, you would have all to be fools like your selves, we have freedom to plait our hair, and hang it about with Ribbands and lay it over our browes, this is our liberty, and to set spots on our faces of half moons, and a coatch and horses, and curl and powder our hair, and tie it up with Bibbands and Jewels.</hi>
+            </p>
+            <p>I, But say the serious people, this is not like the Christians fashions nor the Apostles doctrine, which saith, it is not the plaiting of the hair and putting on of gold; nor like Christs doctrine, who saith they should not take thought what to eat and to drink, nor what to put on, for the <hi>Gentiles</hi> did so: but you are taking thought for your gold Lace and Rib<g ref="char:EOLhyphen"/>bands and changeable suits, and cannot tell what to eat, nor what to drink, not what to put on: you are more like the fools, and the heathen, say the serious people, then Christians; And you tie up your hair, and childrens hair, as the Ostlers ties up the horses tails, and maynes, and hang <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ib<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands at their ears; as you do, so do the Grooms and Ostlers in the wilde horses and Mares heads, as you do your men and women, and so are a people that have forgotten God and all sincerity; And so you are
+<pb n="4" facs="tcp:193507:3"/> a people that take more pleasure in the creatures then in the Creator. And as for your patches and half moones, and horses and Coaches on your faces, you are more like fools, and of <hi>Jezabels</hi> stock (who be<g ref="char:EOLhyphen"/>trayed the just) that painted Harlot, and so the Just have you betrayed in your selves, and have vexed and grieved the good spirit of God in you by your vanity, one vanity after another, so you are more like <hi>Jezabel</hi> then Christians; what a crinckling is here with your feet and a mincing? how suit you with such as the Prophet cryed against who shall be covered with ashes, <hi>And instead of a sweet smell, a stink</hi>
+            </p>
+            <p>The Priests and professors of the world say, <hi>These fool<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the</hi> Quakers, <hi>cannot endure to see us with two or three Rings on our fingers, nor I<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s in our ears, nor bracelets about our neeks, nor cuffs, nor double <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uffs, nor g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>shling band strings, they cannot endure we should wear a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aced Cap of twenty shillings price, or less or more, and a pair of double Cuffs u<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n our hands, and double white Boot-hoose tops, these novice</hi> Quakers <hi>cannot endure to see us with this garb upon our backs. And how should poor people live if we should not wear them?</hi>
+            </p>
+            <p>Say the serious people, all your gold Rings, your Cuffs, your great band-strings, your Lace, your Jewels, your Bracelets, your gorgious ap<g ref="char:EOLhyphen"/>parel and Attire, turn it all into money, and give it the poor to buy them bread, and I will warrant you that they and you will have all enough, and there will be no want amongst you, for you are alwayes wanting rings, or Ribbands, gold hat-Bands, Laces or Bracelets, you are, alwayes wanting one thing or another, if ye see another fashion, the other is old; and you want to get into it, and you envy others that are gotten into the fashion before you. And here is the Devil the king of pride, that mur<g ref="char:EOLhyphen"/>therer, that leads people to consume and destroy the creatures upon their lusts, for his lusts they do; and so you are more like fools that are slaves to the Devil, who is out of the truth that leads you to destroy the works and creatures and Creation of God, and all your want is of God; for you want God and his wisdom to order you.</p>
+            <p>The Teachers and professors of the world say, <hi>The</hi> Quakers <hi>are offended at us because our women have a dressing come down to the midle of their backs, and a great pair of Cuffs upon their bands, and how must the poor people live if they should not do so?</hi>
+            </p>
+            <p>The makers of these things, say the serious people, let them make plain things, and do you wear plain things, and that money which you lay out of these costly things, give you to them; for who are you like in the Scriptures? you are not like the Christians, for what service is there in your wearing a bunch of ribbans at your womens backs? do they scare flies away? and at their breasts, tashling at their Arms, and a great company of Ribbands tashling at their hams and their heads, do you wear them to scaire flies from your hams? why do you wear that great bunch before? what is the service of it, that you are thus drest? Are you drest for a sight, and a shew, that people should wonder and stare at you? or are you drest according to the Scripture, and the Apostles doctrine and commands? give some example for your fruits among the Saints; saith the serious people, we have seen Bedlam people, and mad men hang Ribbans in their Caps, and at their horns ends, and mad people hang
+<pb n="5" facs="tcp:193507:3"/> about with clouts; so you are more like fools and mad people then the <hi>Quakers;</hi> and it is a wonder that you professors, and Teachers, and peo<g ref="char:EOLhyphen"/>ple should be so offended at the <hi>Quakers,</hi> for they see no people out-strip you, except it be the Mountebancks, and stage players, &amp; French Lackies; Therefore it is time for you to lay away your Ribbands, &amp; your gold and your rings, and your Bracelets, and your Lace, and your gold, and your silver Lace, and your bunch of Ribbands, and all your superfluity, and turn it into money, and give it to the poor Trades-men that makes these things; so that they may not labour to serve your lusts &amp; wils to consume it upon your lusts, and that shall bring more honour to God in giving that which you waste on superfluity to the poor Trads-men that works for your cons<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ming wills and lusts. Therefore consider saith the serious people, for God will destroy the world that lies in pride and wickedness, which the Devil is the Prince of, and that shall come to an end, and it must be destroyed by the word, and the glory of the world will fade away, but the glory of the Lord will not, nor his word which lives, abides and remains and endures for ever. Therefore consider all you children of pride, amongst whom the Devil is, who is your King and R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ler, who is called the King of pride, who are alwayes in want, for the murthere<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and devourer causes you to waste the Creation of God, and destroy it, and so your want is for want of God and his wisdom. The Lord God of power and of heaven and earth, who will Rule you with his hammar, with his sword, with his word which is a fire for all the children of pride; and the hammer is beating, and the sword is go<g ref="char:EOLhyphen"/>ing, and the fire is kindling which will make all the proud to rage with a burning fire; Heark cries the Priests and professors, and Teachers of the world, <hi>we cannot get a</hi> Quaker <hi>to the Ale house, nor Tavern, nor to feast with us, not to dance with us, nor to hear our Fidlers, nor Musick (a company of precise people) there is none knowes how to have them.</hi>
+            </p>
+            <p>Say you s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? Saith the serious people, that is because they will not to the T<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>n with you, and have the Fidlers, and Pipes, and Pots, and you Banquetting, and Feasting, and your houting more like mad men out of your wits, then men that fears God, who thus destroyes the Creation upon your lusts. The <hi>Quakers</hi> are come into the wisdom of God the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Creation by which all things were Created, so that if they eat, and drink, it must be to the praise and glory of God; being in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fear so they cannoth have fellowship with the destroyers and mar<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s of the workmanship of God; and the Creation.</p>
+            <p>The Priest<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and professors &amp; Teachers of the world <hi>Say, the</hi> Quakers <hi>will not d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their hats, nor scrape a leg, nor make a courtsie (a company of Clowns.)</hi>
+            </p>
+            <p>Saith the serious people, where do you read in Scriptures that the Apostles t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught any one that they should <hi>scrape</hi> a <hi>Leg,</hi> and make a <hi>Curt<g ref="char:EOLhyphen"/>sie,</hi> or put off their hats, for great men will stand with their hats on, one to another, and sometimes they will bow and stir them, but they will seldome bow to the poor, or scrape a Leg to a begger; so if he hath got a feather in his hat, &amp; a few Ribbands on his breeches, and hair pow<g ref="char:EOLhyphen"/>dred, and if she hath gotten a bunch of Ribbens on her back, then theres your <hi>servant Madam, your servant Sir, your humble servant, Mr.</hi> then scrape
+<pb n="6" facs="tcp:193507:4"/> and curtsie and doff the hat, and <hi>you Sir,</hi> and this pleaseth proud flesh, but to say <hi>(thou friend)</hi> makes him or her mad, which is a proper lo<g ref="char:EOLhyphen"/>ving word, and Scripture order and practice, and a sound word, that cannot be condemned. Therefore such proud ones that bowes not unto poor people, and scrape not unto poor people, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them &amp; not <hi>you</hi> them, and yet they must be Courtsied to, and sc<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ped to, and Capt because they have some more of the Earth and proud <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ell and their poor brethren must not be scrapt, nor bowed unto, is not here re<g ref="char:EOLhyphen"/>specting persons? And so are judged by the Law of liberty.</p>
+            <p>And as for your saying it is your liberty, to wear Cuffs, Rings Beads, Jewels, powder your hair, gold and silver lace, bunches of r<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bands at your backs, great scarfes about your hats, feathers and Ribbands, great things a top of your shoos; Childrens hair tyed up (like horse maines with ribbands) Like horses tailes, Lusty great lasses, and women full of paint, &amp; patches of horses, and half moones upon their faces; this is our liberty saith the professors and teachers of the world, and all is ours, and it is the Saints liberty; Nay, this is the liberty of the flesh, and the King of prides kingdom, in his dominion in the Earth destroying the creatures and devouring the creatures &amp; this liberty is your own bondage who are servants of corruption, &amp; this liberty wil be your burthen, &amp; your vanity will fly you in the end, though you will not fly it in your life time, and will stand you in no stead, who will be found as <hi>Dives,</hi> that rich glutton, that fared sumptuously every day, and the poor begger hath a greater share in the Kingdome with <hi>Abraham Isaac and Jacob</hi> then you; and sits in his bosome in that Kingdome, when the other is in the Lake. Therefore you that live wantonly upon earth, you kill the just, and the Devil is your King, (who is unjust) and your Law-giver, who teach<g ref="char:EOLhyphen"/>eth you to destroy and devour, and to consume, and you that live in pleasures on the Earth are dead while you live, and have denyed the faith, and are turned wanton, that eat and drink and rise up to play, and go to dancing, and are like the children of <hi>Israel</hi> that danced be<g ref="char:EOLhyphen"/>fore the calfe, and like unto <hi>Herodias</hi> daughter that danced to please that glutton &amp; gorgious man, who was reproved; who took off the head of <hi>Iohn</hi> Baptist that reproved him to satisfie the lust of the dance; and there, is the end of those that live wantonly upon Earth, that kill the just, that are sporting themselves, and living in pleasures in the day time, such are gone out from the power of God, and are as the heathen and not as the Saints who were redeemed out of the Earth, and its va<g ref="char:EOLhyphen"/>nities and pleasures to know the election before the world began.</p>
+            <p>The priests and professors of the world say, <hi>The Quakers those fools can<g ref="char:EOLhyphen"/>not indure our puppit plaies, nor our stage plaies, nor our May-gaines. nor our sho<g ref="char:EOLhyphen"/>v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l boards, nor our Tables nor Dice nor our sports nor showes, nor that we sh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld make pictures of things in heaven, and things in earth, nor our lit<g ref="char:EOLhyphen"/>tle Babies that we sell, nor our <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mages, these fooles the Quakers cannot in<g ref="char:EOLhyphen"/>dure these things</hi> Are you not ashamed saith the serious people, for shame hold your tongues, do you call your selves teachers, and professors, and Christians, and name the name of Christ, and professe the Apostles words? <hi>Why it is our recreation say they;</hi> Recreation? Away, away, the recreation is in the Law of God, the delight is there day and night,
+<pb n="7" facs="tcp:193507:4"/> and the exercise is there, and the glorying is in the Crosse of Christ that crucifies to the World. Are not you ashamed to talk of Fidlers, Mountebancks and stage players, &amp; Images and pictures, and showes, and your shovel boards, and plaies, and games and Dice? Away for shame hold your tongues, for they are works of the flesh, and works of vanity and delights of fools that live in their pleasures and lusts of the world, who are enem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es to the Crosse of Christ, that crucifies to the world, and which is the Saints glory; who glories in the Creator, but those that follow their pleasures, glories in the Creature more then in the Crea or; who are swearing almost at every word, and cursing at every word, that there is such nasty streets, with such nasty unsavoury words, and such cursing and swearing, that it is even a shame and loathsome to speak of, a den of Dr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, like as Hell were broken open; and this is your noise in your streets, Tavernes and Ale-houses.</p>
+            <p>Ha, Ha, cries the professors and reachers of the world, <hi>what do the Quakers do▪ They bid you mind the light of Christ within you.</hi>
+            </p>
+            <p>I, saith the serious people, if you did mind the light within you, it would never let you swear nor curse, nor follow pleasures nor fol<g ref="char:EOLhyphen"/>low the fashons of the world, nor the vanities, nor the fooleries, nor ima<g ref="char:EOLhyphen"/>ges nor let you destroy the creation on your lusts, and creatures, &amp; so ma<g ref="char:EOLhyphen"/>ny in the Nation to starve for want of food, it would bring you to put off your g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgious apparel, gold and silver, and Rings and Ribbands: But the light would lead you to Christ the wisdome of <hi>God</hi> from whence it comes, and that would lead you to order the creatures to the glory of <hi>God</hi> the Creator of them, which Checks you and reproves you, and brings you <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of <hi>Dives</hi> state, to poor <hi>Lazarus</hi> kingdome, but if you hate it, it will be your condemnation. And to you that is the word of the Lord <hi>God,</hi> For when men are lifted up in pride, they shall not come nigh them without scraping and bowing the hat four or five times; and this is the honour below to fools, which is like Snow in Summer, and rain in harvest, unseasonable; Two men and two women of the World meets the one the other, and being much offended the one at the other; For saith the one, <hi>I bowed three times to him and he scarce bowed once to me, and scarce stirred his hat, he is not so civil and courtious as he was wont to be; I wonder what is the matter; I courtsied three times▪ the first almost to the ground, and she scarce bowed to me, she made but halfe a courtsie, which is not as she used to be, for she used to be more courtious.</hi>
+            </p>
+            <p>Why how now saith the serious people, you were finding fault with the Quakers before? Who now cannot please one another with your cour<g ref="char:EOLhyphen"/>tsies, and scrapes, and your hats some does it too little, some too much; for I saw one of the World, a great professor, &amp; a Teacher, and he came to another that had been a Teacher, and they bowed one to the other till they out-bowed one another, and this the one said to the other, a<g ref="char:EOLhyphen"/>way with these complements, So the most of your time is spent saith the serious people in capping one to the other, and courtsying, and thinking what you shall eat, and what you shall drink, and your comple<g ref="char:EOLhyphen"/>ments and fashons. And this takes you off the service of <hi>God,</hi> and the civilitie which is in the truth, that is out of all that; for true civilitie
+<pb n="8" facs="tcp:193507:5"/> stand in truth and love that envies not, but the love of the world will envie and be envious at others that will not give them their fashion, their complement, their courtsie, their Cap, and their scrape, which they call civilitie, and that is not civilitie which will envie, for civili<g ref="char:EOLhyphen"/>tie stands out of envie, in truth and love that envies not.</p>
+            <p>Priests and professors of the World say they, <hi>These clownish</hi> Quakers <hi>will not drink in one, neither say good morrow, or good Evening, but say</hi> thou <hi>to every one; Let him be great or smale, they will</hi> thou <hi>him, a company of clowns and ill-bred people, they are not fit to dwell upon the earth.</hi>
+            </p>
+            <p>How now? Saith the serious people, why do you say so? why do you thus rage? For it is a temptation in drinking one to an other, it is more civility to set down the cup, let every one take the creatures in their service, and drink as he needs, they stand to serve, and not to tempt one another to drink more then doth him good,</p>
+            <p>I, I, <hi>We thought ye would destroy all good fellowship,</hi> cries the Teach<g ref="char:EOLhyphen"/>ers and professors of the world.</p>
+            <p>Nay cries the serious people, the good fellowship is in the spirit, which gives an understanding and a good wisdome, that is pure and gen<g ref="char:EOLhyphen"/>tle from above; with that to order the creatures, to the glory of the Creator, and the morning is good, and the evening is good, for all things that God made were good; But bad people say the morning is bad, &amp; the evening is bad, when it doth not please them: And so to such we tell them it is a good morning and a good Evening, which they call bad; And them that do not know all things that God made to be good, we tell them that they are; And them that say the morning and the evening is bad, we tell them it is good, but the night of darknesse is bad, where all the works of darknesse are done. And the morning of judgement is good; but he will think it is bad, that his works and him must be tryed by fire which cannot be quenched. And those are the clownes that do not know the Morning good, and the Evening good, but must be saying the words to one another all their life time. And they that say <hi>thou</hi> to a particular are not clownes, for it is sound Scripture language; <hi>David</hi> was not a clowne, nor the prophets, nor Christ, nor the Apostles that <hi>thou'd</hi> particulars; and <hi>you'd</hi> generalls (or many) but those be clownes that be out of the sound speech; and surely these Teachers and Professors might have known, ere now, and have taught the World sin<g ref="char:EOLhyphen"/>gular and plural numbers, and have learned their <hi>Accedente</hi> and their Grammar ere now, and not have called them clownes that come into the practice of the singular and plural; a clown is untaught and one that hath learned and doth not practice.</p>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
